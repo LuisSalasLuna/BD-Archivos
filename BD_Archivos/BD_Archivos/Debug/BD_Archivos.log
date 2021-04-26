@@ -1,0 +1,4 @@
+﻿  BD_Archivos.cpp
+C:\Users\asus\Documents\SanPa\5to sem\Base de Datos II\BD_Archivos\BD_Archivos\BD_Archivos.cpp(208,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\asus\Documents\SanPa\5to sem\Base de Datos II\BD_Archivos\BD_Archivos\BD_Archivos.cpp(213,35): warning C4018: '<': no coinciden signed/unsigned
+  BD_Archivos.vcxproj -> C:\Users\asus\Documents\SanPa\5to sem\Base de Datos II\BD_Archivos\Debug\BD_Archivos.exe
